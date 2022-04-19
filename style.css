@@ -52,7 +52,7 @@ body {
 }
 
 .panel.active {
-    flex: 5;
+    flex: 4;
 }
 
 .panel.active h3 {
@@ -60,7 +60,8 @@ body {
     transition: opacity 0.3s ease-in 0.4s;
 }
 
-@media (max-width: 480px){
+/* Ei saanud tööle korralikult */
+/* @media (max-width: 480px){
     .container{
         width: 100vw;
     }
@@ -68,5 +69,5 @@ body {
     .panel:nth-of-type(5),.panel:nth-of-type(6){
         display: none;
     }
-}
+} */
 
