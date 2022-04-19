@@ -52,7 +52,7 @@ body {
 }
 
 .panel.active {
-    flex: 4;
+    flex: 5;
 }
 
 .panel.active h3 {
